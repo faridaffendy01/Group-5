@@ -1,4 +1,4 @@
-
+// Farid Bin Affendy (1924303)
 <div class="ui accordion">
   <div class="title" onclick="$('#c1').slideToggle();">
     <i class="dropdown icon"></i>
