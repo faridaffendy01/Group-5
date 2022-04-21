@@ -1,7 +1,9 @@
 # Group-5 Bus Seat Reservation System
 <br> Rafi Mirza Rubayed Hasan 1837613 </br>
+<br> -Create and present Validate.php file code</br>
       
  <br> Joyaddar Md Jobayer 1731833 </br>
+ <br> -Create and present Request.php</br>
  
 <br> Farid Bin Affendy 1924303 </br>
  <br> - Create github and readme.md file</br>
